@@ -1,6 +1,6 @@
 <knowledge>
 
-    <prior_new value="0.003" />
+    <prior_new value="0.005" />
     <prior_existing value="0.1" />
     <prior_clutter value="0.897" />
 
